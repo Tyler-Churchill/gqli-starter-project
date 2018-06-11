@@ -1,0 +1,9 @@
+{
+  "editor.formatOnSave": true,
+  "files.eol": "\n",
+  "editor.fontSize": 14,
+  "prettier.singleQuote": true,
+  "eslint.autoFixOnSave": false,
+  "prettier.trailingComma": "none",
+  "javascript.preferences.quoteStyle": "single"
+}

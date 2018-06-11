@@ -1,0 +1,14 @@
+{
+  "presets": [
+    [
+      "env",
+      {
+        "targets": {
+          "node": "8"
+        },
+        "modules": "commonjs"
+      }
+    ]
+  ],
+  "plugins": ["import-graphql", "transform-object-rest-spread"]
+}
